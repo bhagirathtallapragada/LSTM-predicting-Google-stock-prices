@@ -1,0 +1,7 @@
+sklearn
+matplotlib
+numpy
+pandas
+tensorflow
+tf-nightly
+keras
